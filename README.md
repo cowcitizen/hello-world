@@ -12,3 +12,5 @@ Please ignore this repo. Thank you very much.
 In Korean, "cow" is "소", and "citizen" is "시민." Put together, they make up "소시민." It means "petit-bourgeois." Not that I am one; the wordplay itself was entertaining.  
 Actually, I thought the word meant something around "A citizen who has no power". It turns out, dictionaries don't agree with me.  
 I did consider changing my name, but I couldn't come up with a good alternative. So I decided to stick with this name.
+
+I'm still learning to use git. This is my first try. This line was written from my computer. Can I push?
